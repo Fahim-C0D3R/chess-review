@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "chess.js": "^0.13.4",
+    "chessboardjsx": "^1.0.0",
+    "stockfish": "^11.0.0",
+    "chart.js": "^4.4.0",
+    "react-chartjs-2": "^5.2.0"
+  }
+}
